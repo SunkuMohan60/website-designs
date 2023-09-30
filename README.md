@@ -1,6 +1,6 @@
 # Flipkart Explore Us
 
-This is a sample README file for the "Flipkart Explore Us" project. This project appears to be a web page built with HTML and Bootstrap. 
+This is a sample  for the "Flipkart Explore Us" project. This project appears to be a web page built with HTML and Bootstrap. 
 Here's a brief overview of the project and how to use it.
 
 ## Project Overview
